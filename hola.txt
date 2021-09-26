@@ -1,1 +1,2 @@
 hola mundo este es un repositorio 
+hola este es el dia dos de prubas en git 
